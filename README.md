@@ -54,8 +54,6 @@ A hotel reservation system with secure payment integration and member benefits.
 
 ## 📫 **How to Reach Me**  
 - **Email:** [suphapinya.smj@gmail.com](mailto:suphapinya.smj@gmail.com)  
-- **Portfolio:** [github.com/Ginwobb](https://github.com/Ginwobb)  
-
 ---
 
 ## ⚡ **Fun Fact**  
