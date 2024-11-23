@@ -19,12 +19,12 @@ I thrive on solving real-world problems through intuitive and efficient code, al
 ---
 
 ## 🚀 **Projects**  
-### **[Let’s SEECARFT](#)**  
+### **Let’s SEECARFT** | **[Client](https://github.com/Ginwobb/TripLetSeeCarft-Client.git)** / **[Server](https://github.com/Ginwobb/TripLetSeeCraft-Server.git)**
 A seamless trip-planning web app enabling users to personalize their itineraries with ease.  
 - **Technologies Used:** React, Node.js, MySQL, Google Maps API  
 - **Features:** Customization, sharing, duplication, and hassle-free planning  
 
-### **[Hotel Booking](#)**  
+### **Hotel Booking** | **[Client](https://github.com/Ginwobb/HotelBooking_Project-Client.git)** / **[Server](https://github.com/Ginwobb/HotelBooking_Project-Server.git)**  
 A hotel reservation system with secure payment integration and member benefits.  
 - **Technologies Used:** React, Node.js, Stripe API, Socket.io  
 - **Features:** User-friendly search, secure payment, travel benefits for members  
